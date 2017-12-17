@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-ts-jest",
-  "version": "1.0.17",
+  "version": "1.0.17-a",
   "description": "Add ts-jest to a react-app-rewired config.",
   "main": "index.js",
   "files": ["index.js"],
